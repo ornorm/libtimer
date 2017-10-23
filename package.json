@@ -1,0 +1,31 @@
+{
+  "name": "libtimer",
+  "version": "1.0.0",
+  "description": "Basic timer lib helpers",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/libtimer.git"
+  },
+  "keywords": [
+    "getTime",
+    "TimerTask",
+    "TimerHeap",
+    "Timer"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/libtimer/issues"
+  },
+  "homepage": "https://github.com/ornorm/libtimer#readme",
+  "dependencies": {
+    "libobs": "^1.0.0"
+  }
+}
